@@ -1,0 +1,186 @@
+8/22/2018 5:39:03 PM,Class,LocalCommErr,FAILED,admin,NA
+8/22/2018 5:39:18 PM,Class,LocalCommErr,FAILED,admin,NA
+8/22/2018 5:39:33 PM,Class,LocalCommErr,FAILED,admin,NA
+8/22/2018 5:39:49 PM,Class,LocalCommErr,FAILED,admin,NA
+8/22/2018 5:39:57 PM,Ateilla Personalization Manager,LOGGED IN: Invalid Password,FAILED,admin,NA
+8/23/2018 4:56:07 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 4:56:20 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 6:48:38 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 6:48:49 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 6:49:04 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 6:49:10 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 6:49:11 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+8/23/2018 6:49:16 PM,Choose Card to Personalize,LOGGED OFF,SUCCESS,admin,NA
+8/23/2018 6:49:23 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 6:49:29 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 6:49:44 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 6:49:51 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 6:50:32 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 6:50:39 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:22:31 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:22:37 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:22:50 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:22:56 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:22:57 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+8/23/2018 7:23:03 PM,Choose Card to Personalize,LOGGED OFF,SUCCESS,admin,NA
+8/23/2018 7:23:10 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:23:16 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:23:29 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:23:35 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:23:48 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:23:55 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:23:55 PM,Change Password Utility,GRACE PERIOD,SUCCESS,admin,NA
+8/23/2018 7:24:33 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:24:39 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:24:39 PM,Change Password Utility,GRACE PERIOD,SUCCESS,admin,NA
+8/23/2018 7:24:59 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:25:05 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:25:29 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:25:35 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:25:57 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:26:03 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:26:03 PM,Change Password Utility,GRACE PERIOD,SUCCESS,admin,NA
+8/23/2018 7:26:59 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:27:06 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:27:06 PM,Change Password Utility,GRACE PERIOD,SUCCESS,admin,NA
+8/23/2018 7:27:30 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:27:36 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:27:36 PM,Change Password Utility,GRACE PERIOD,SUCCESS,admin,NA
+8/23/2018 7:28:00 PM,Change Password Utility,CHANGED PASSWORD,SUCCESS,admin,NA
+8/23/2018 7:28:09 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:28:15 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:28:49 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:28:55 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:32:05 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:32:12 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:33:17 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:33:23 PM,Class,LocalCommErr,FAILED,admin,NA
+8/23/2018 7:33:24 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+8/24/2018 2:20:55 PM,Class,LocalCommErr,FAILED,admin,NA
+8/24/2018 2:21:02 PM,Class,LocalCommErr,FAILED,admin,NA
+8/24/2018 5:53:39 PM,Class,LocalCommErr,FAILED,admin,NA
+8/24/2018 5:53:45 PM,Class,LocalCommErr,FAILED,admin,NA
+8/24/2018 5:54:06 PM,Class,LocalCommErr,FAILED,admin,NA
+8/24/2018 5:54:12 PM,Class,LocalCommErr,FAILED,admin,NA
+8/24/2018 5:54:13 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+10/16/2018 10:58:10 AM,Class,LocalCommErr,FAILED,admin,NA
+10/16/2018 10:58:17 AM,Class,LocalCommErr,FAILED,admin,NA
+10/16/2018 10:58:48 AM,Class,LocalCommErr,FAILED,admin,NA
+10/16/2018 10:58:55 AM,Class,LocalCommErr,FAILED,admin,NA
+10/16/2018 10:59:18 AM,Class,LocalCommErr,FAILED,admin,NA
+10/16/2018 10:59:24 AM,Class,LocalCommErr,FAILED,admin,NA
+10/16/2018 10:59:25 AM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+10/16/2018 10:59:34 AM,Choose Card to Personalize,LOGGED OFF,SUCCESS,admin,NA
+10/16/2018 10:59:41 AM,Class,LocalCommErr,FAILED,admin,NA
+10/16/2018 10:59:47 AM,Class,LocalCommErr,FAILED,admin,NA
+10/16/2018 11:00:37 AM,Class,LocalCommErr,FAILED,admin,NA
+10/16/2018 11:00:43 AM,Class,LocalCommErr,FAILED,admin,NA
+10/16/2018 11:00:44 AM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+10/16/2018 11:00:58 AM,Class,LocalCommErr,FAILED,admin,NA
+10/16/2018 11:01:04 AM,Class,LocalCommErr,FAILED,admin,NA
+11/22/2022 5:55:56 PM,Class,LocalCommErr,FAILED,admin,NA
+11/22/2022 5:57:00 PM,Class,LocalCommErr,FAILED,admin,NA
+11/22/2022 5:59:34 PM,Override,LOGGED IN OVERRIDE,SUCCESS,admin,NA
+11/22/2022 5:59:53 PM,Change Password Utility,CHANGED PASSWORD,SUCCESS,nced,NA
+11/22/2022 5:59:56 PM,Ateilla Personalization Manager,LOGGED IN: Invalid Password,FAILED,nced,NA
+11/22/2022 5:59:59 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,nced,NA
+11/22/2022 6:00:06 PM,Choose Card to Personalize,LOGGED OFF,SUCCESS,nced,NA
+11/22/2022 6:00:32 PM,Class,LocalCommErr,FAILED,admin,NA
+11/22/2022 6:00:52 PM,Override,LOGGED IN OVERRIDE,SUCCESS,admin,NA
+11/22/2022 6:00:58 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,nced,NA
+11/22/2022 6:03:03 PM,Class,LocalCommErr,FAILED,admin,NA
+11/22/2022 6:33:24 PM,Override,LOGGED IN OVERRIDE,SUCCESS,admin,NA
+11/22/2022 6:33:34 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,nced,NA
+11/22/2022 6:33:35 PM,Ateilla Personalization Manager 1.5.0.3,SET DEFAULT PRINTER,SUCCESS,nced,NA
+11/22/2022 6:33:36 PM,Ateilla Personalization Manager 1.5.0.3,SET DEFAULT PRINTER,SUCCESS,nced,NA
+11/22/2022 6:33:39 PM,Ateilla Personalization Manager 1.5.0.3,SET DEFAULT PRINTER,SUCCESS,nced,NA
+11/22/2022 6:33:41 PM,Ateilla Personalization Manager 1.5.0.3,SET DEFAULT PRINTER,SUCCESS,nced,NA
+11/22/2022 6:33:41 PM,Ateilla Personalization Manager 1.5.0.3,SET DEFAULT PRINTER,SUCCESS,nced,NA
+11/22/2022 6:34:13 PM,Ateilla Personalization Manager 1.5.0.3,SET DEFAULT PRINTER,SUCCESS,nced,NA
+11/22/2022 6:34:20 PM,Ateilla Personalization Manager 1.5.0.3,SET DEFAULT PRINTER,SUCCESS,nced,NA
+11/22/2022 6:34:25 PM,Ateilla Personalization Manager 1.5.0.3,SET DEFAULT PRINTER,SUCCESS,nced,NA
+11/22/2022 6:35:26 PM,Class,LocalCommErr,FAILED,admin,NA
+11/22/2022 6:35:45 PM,Override,LOGGED IN OVERRIDE,SUCCESS,admin,NA
+11/22/2022 6:35:47 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+11/22/2022 6:36:07 PM,Username,Verified Card,SUCCESS,admin,NA
+11/22/2022 6:37:05 PM,Username,Verified Card,SUCCESS,admin,NA
+11/22/2022 6:37:57 PM,Username,Failed to read tracks,FAILED,admin,NA
+11/22/2022 6:45:24 PM,Username,Verified Card,SUCCESS,admin,NA
+11/22/2022 6:46:28 PM,Username,Verified Card,SUCCESS,admin,NA
+11/22/2022 6:48:19 PM,Ateilla Personalization Manager 1.5.0.3,PRINT CARD,SUCCESS,admin,NA
+11/22/2022 6:48:54 PM,Ateilla Personalization Manager 1.5.0.3,SET DEFAULT PRINTER,SUCCESS,admin,NA
+11/22/2022 6:48:54 PM,Ateilla Personalization Manager 1.5.0.3,SET DEFAULT PRINTER,SUCCESS,admin,NA
+11/23/2022 1:02:06 PM,Class,LocalCommErr,FAILED,admin,NA
+11/23/2022 1:02:16 PM,Override,LOGGED IN OVERRIDE,SUCCESS,admin,NA
+11/23/2022 1:02:20 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+11/23/2022 1:02:23 PM,Ateilla Personalization Manager 1.5.0.3,SET DEFAULT PRINTER,SUCCESS,admin,NA
+11/23/2022 1:02:24 PM,Ateilla Personalization Manager 1.5.0.3,SET DEFAULT PRINTER,SUCCESS,admin,NA
+11/23/2022 1:05:16 PM,Username,Verified Card,SUCCESS,admin,NA
+11/23/2022 1:07:05 PM,Class,LocalCommErr,FAILED,admin,NA
+11/23/2022 1:07:12 PM,Override,LOGGED IN OVERRIDE,SUCCESS,admin,NA
+11/23/2022 1:07:15 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+11/23/2022 1:07:27 PM,Username,Verified Card,SUCCESS,admin,NA
+11/23/2022 1:52:18 PM,Class,LocalCommErr,FAILED,admin,NA
+11/23/2022 1:52:30 PM,Override,LOGGED IN OVERRIDE: Invalid Password,FAILED,admin,NA
+11/23/2022 1:52:37 PM,Override,LOGGED IN OVERRIDE,SUCCESS,admin,NA
+11/23/2022 1:52:40 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+11/23/2022 1:52:59 PM,Username,Failed to read tracks,FAILED,admin,NA
+11/23/2022 1:53:19 PM,Username,Failed to read tracks,FAILED,admin,NA
+11/23/2022 1:53:37 PM,Username,Failed to read tracks,FAILED,admin,NA
+11/23/2022 1:53:48 PM,Username,Verified Card,SUCCESS,admin,NA
+11/23/2022 1:56:58 PM,Class,LocalCommErr,FAILED,admin,NA
+11/23/2022 1:57:14 PM,Override,LOGGED IN OVERRIDE,SUCCESS,admin,NA
+11/23/2022 1:57:16 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+11/23/2022 1:57:36 PM,Username,Verified Card,SUCCESS,admin,NA
+11/23/2022 1:58:49 PM,Class,LocalCommErr,FAILED,admin,NA
+11/23/2022 1:58:55 PM,Override,LOGGED IN OVERRIDE,SUCCESS,admin,NA
+11/23/2022 1:58:58 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+11/23/2022 1:59:14 PM,Username,Verified Card,SUCCESS,admin,NA
+11/23/2022 2:01:24 PM,Class,LocalCommErr,FAILED,admin,NA
+11/23/2022 2:01:32 PM,Override,LOGGED IN OVERRIDE,SUCCESS,admin,NA
+11/23/2022 2:01:35 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+11/23/2022 2:01:54 PM,Username,Verified Card,SUCCESS,admin,NA
+11/23/2022 2:04:36 PM,Class,LocalCommErr,FAILED,admin,NA
+11/23/2022 2:04:49 PM,Override,LOGGED IN OVERRIDE,SUCCESS,admin,NA
+11/23/2022 2:04:52 PM,Ateilla Personalization Manager,LOGGED IN: Invalid Password,FAILED,admin,NA
+11/23/2022 2:04:57 PM,Ateilla Personalization Manager,LOGGED IN: Invalid Password,FAILED,admin,NA
+11/23/2022 2:04:59 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+11/23/2022 2:05:11 PM,Username,Verified Card,SUCCESS,admin,NA
+11/23/2022 2:12:58 PM,Class,LocalCommErr,FAILED,admin,NA
+11/23/2022 2:13:28 PM,Class,LocalCommErr,FAILED,admin,NA
+11/23/2022 2:13:34 PM,Override,LOGGED IN OVERRIDE,SUCCESS,admin,NA
+11/23/2022 2:13:37 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+11/23/2022 2:13:57 PM,Username,Verified Card,SUCCESS,admin,NA
+11/23/2022 2:19:00 PM,Class,LocalCommErr,FAILED,admin,NA
+11/23/2022 2:19:09 PM,Override,LOGGED IN OVERRIDE,SUCCESS,admin,NA
+11/23/2022 2:19:16 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+11/23/2022 2:19:27 PM,Username,Verified Card,SUCCESS,admin,NA
+11/23/2022 3:06:22 PM,Class,LocalCommErr,FAILED,admin,NA
+11/23/2022 3:07:39 PM,Override,LOGGED IN OVERRIDE,SUCCESS,admin,NA
+11/23/2022 3:07:42 PM,Ateilla Personalization Manager,LOGGED IN: Invalid Password,FAILED,admin,NA
+11/23/2022 3:07:45 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+11/23/2022 3:07:55 PM,Ateilla Personalization Manager 1.5.0.3,SET DEFAULT PRINTER,SUCCESS,admin,NA
+11/23/2022 3:07:55 PM,Ateilla Personalization Manager 1.5.0.3,SET DEFAULT PRINTER,SUCCESS,admin,NA
+11/23/2022 3:07:59 PM,Ateilla Personalization Manager 1.5.0.3,SET DEFAULT PRINTER,SUCCESS,admin,NA
+11/23/2022 3:08:02 PM,Ateilla Personalization Manager 1.5.0.3,SET DEFAULT PRINTER,SUCCESS,admin,NA
+11/23/2022 3:08:05 PM,Ateilla Personalization Manager 1.5.0.3,SET DEFAULT PRINTER,SUCCESS,admin,NA
+11/23/2022 3:08:09 PM,Ateilla Personalization Manager 1.5.0.3,SET DEFAULT PRINTER,SUCCESS,admin,NA
+11/23/2022 3:08:16 PM,Ateilla Personalization Manager 1.5.0.3,SET DEFAULT PRINTER,SUCCESS,admin,NA
+11/23/2022 3:08:43 PM,Class,LocalCommErr,FAILED,admin,NA
+11/23/2022 3:08:48 PM,Override,LOGGED IN OVERRIDE,SUCCESS,admin,NA
+11/23/2022 3:08:51 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+11/23/2022 3:09:05 PM,Username,Verified Card,SUCCESS,admin,NA
+11/23/2022 3:15:55 PM,Class,LocalCommErr,FAILED,admin,NA
+11/23/2022 3:16:06 PM,Override,LOGGED IN OVERRIDE: Invalid Password,FAILED,admin,NA
+11/23/2022 3:16:09 PM,Override,LOGGED IN OVERRIDE: Invalid Password,FAILED,admin,NA
+11/23/2022 3:16:12 PM,Override,LOGGED IN OVERRIDE,SUCCESS,admin,NA
+11/23/2022 3:16:21 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+11/23/2022 3:16:32 PM,Username,Verified Card,SUCCESS,admin,NA
+11/23/2022 3:19:43 PM,Class,LocalCommErr,FAILED,admin,NA
+11/23/2022 3:19:51 PM,Override,LOGGED IN OVERRIDE,SUCCESS,admin,NA
+11/23/2022 3:19:53 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+11/23/2022 3:21:43 PM,Username,Verified Card,SUCCESS,admin,NA
+11/23/2022 3:26:51 PM,Class,LocalCommErr,FAILED,admin,NA
+11/23/2022 3:27:01 PM,Override,LOGGED IN OVERRIDE,SUCCESS,admin,NA
+11/23/2022 3:27:05 PM,Ateilla Personalization Manager,LOGGED IN,SUCCESS,admin,NA
+11/23/2022 3:27:40 PM,Username,Verified Card,SUCCESS,admin,NA
